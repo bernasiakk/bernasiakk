@@ -2,7 +2,7 @@
 
 👋 Hi, I’m Szymon, a passionate data enthusiast on a journey to become a Data Engineer.
 
-📚 Currently diving deep into cloud data platforms, ETL pipelines, and all things big data.
+📚 Currently diving deep into cloud data platforms, ETL pipelines, and all things big data. Check out my **pinned** projects below.
 
 💻 On the side, I love tinkering with home automation projects to make life a bit smarter.
 
