@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 Hi, I’m Szymon, a passionate data enthusiast on a journey to become a Data Engineer.
+👋 Hi, I’m Szymon, a passionate data enthusiast on a journey to becoming a Data Engineer.
 
 📚 Currently diving deep into cloud data platforms, ETL pipelines, and all things big data. Check out my **pinned** projects below.
 
