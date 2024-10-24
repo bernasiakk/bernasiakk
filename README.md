@@ -1,26 +1,15 @@
 ## Hi there 👋
 
-👋 Hi, I’m Szymon, a passionate data enthusiast on a journey to becoming a Data Engineer.
+👋 I’m **Szymon Bernasiak**, an aspiring **Data Engineer** with a passion for transforming raw data into actionable insights through efficient ETL pipelines and cloud technologies.
 
-📚 Currently diving deep into cloud data platforms, ETL pipelines, and all things big data. Check out my **pinned** projects below.
+🚀 **ETL Projects:**  
+I have hands-on experience building scalable ETL solutions, utilizing tools such as **Azure Data Factory**, **Databricks**, and **Synapse Analytics**. My projects involve **cloud migrations**, **data quality management**, and **automating reporting pipelines**. You can explore them in the repositories below!
 
-💻 On the side, I love tinkering with home automation projects to make life a bit smarter.
+🔧 **Tech Stack:**  
+- **Cloud Platforms:** Azure, Microsoft Fabric  
+- **Languages & Tools:** PySpark, SQL, Power BI  
+- **Data Management:** Lakehouse architecture, Blob Storage, Datalake Gen2
 
-❤️ Happy husband, living and working in beautiful Warsaw.
+🏡 In addition to my professional interests, I enjoy working on **home automation** projects to make everyday life smarter and more connected.
 
-Feel free to connect, collaborate, or chat about data, home automation, or anything tech-related!
-
-<!--
-**bernasiakk/bernasiakk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Feel free to reach out if you want to **collaborate**, discuss **data engineering** best practices, or simply talk about **innovative data solutions**.
