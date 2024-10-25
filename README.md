@@ -15,6 +15,19 @@ I have hands-on experience building scalable ETL solutions, utilizing tools such
 💬 Feel free to reach out if you want to **collaborate**, discuss **data engineering** best practices, or simply talk about **innovative data solutions**.
 
 ## My 3 latest projects
+<!-- TODO 
+        1. add your new project below this line
+        2. Put first paragraph as description
+        3. copy architecture image and paste it using 
+<img src=TODO alt="drawing" width="600"/>
+        4. Delete last project in this file (last ###)
+-->
+
+### Earthquake API pipeline with Fabric
+This project automates the process of collecting and analyzing the latest earthquake events using Earthquake API and Microsoft Fabric. The goal is to gather fresh information daily, clean the data, and display the results in a Power BI dashboard.
+
+<img src=https://github.com/user-attachments/assets/29f2fd0f-8b88-41ab-8ab6-7fd430a78c86 alt="drawing" width="600"/>
+
 ### Turning book-ratings.csv into a relational database
 This project automates the process of:
 1. creating a relational database from a book-ratings.csv file, 
@@ -26,8 +39,3 @@ This project automates the process of:
 This project automates the process of collecting and analyzing the latest news using the Bing Web Search API and Microsoft Fabric. The goal is to gather fresh news daily, perform sentiment analysis on news articles, and display the results in a Power BI dashboard. The pipeline is built using Microsoft Fabric components, including Data Factory, Lakehouse, Jupyter Notebooks, and Power BI, ensuring smooth orchestration, processing, and visualization of news data. Alerts are configured to notify when new data is available, allowing for timely reviews.
 
 <img src=https://github.com/user-attachments/assets/6dd7c373-023f-4c37-b887-ac252b7cd04e alt="drawing" width="600"/>
-
-### Analyzing stackoverflow data with Azure Databricks
-This project builds an end-to-end ETL pipeline using Azure Databricks, Synapse Analytics, and Power BI to process and analyze Stack Overflow data. Following the bronze-silver-gold lakehouse architecture, raw data is ingested, transformed, and merged into unified tables for easy querying and visualization. The pipeline is designed for scalability, allowing new data categories to be seamlessly integrated. Security and governance are managed through Azure Key Vault and RBAC.
-
-<img src=https://github.com/user-attachments/assets/6209a92b-4813-4268-b765-7c628b8c698e alt="drawing" width="600"/>
