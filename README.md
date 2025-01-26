@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 I’m **Szymon Bernasiak**, an aspiring **Data Engineer** with a passion for transforming raw data into actionable insights through efficient ETL pipelines and cloud technologies.
+👋 I’m **Szymon Bernasiak**, a **Data Engineer** with a passion for transforming raw data into actionable insights through efficient ETL pipelines and cloud technologies.
 
 🚀 **ETL Projects:**  
 I have hands-on experience building scalable ETL solutions, utilizing tools such as **Azure Data Factory**, **Databricks**, and **Synapse Analytics**. My projects involve **cloud migrations**, **data quality management**, and **automating reporting pipelines**. You can explore them in the repositories below!
